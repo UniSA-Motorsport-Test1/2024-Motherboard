@@ -1,0 +1,11 @@
+(fp_lib_table
+  (lib (name "UniSA Motorsport Logo")(type "KiCad")(uri "D:/GrabCAD/UniSA KiCAD Libraries/footprints/UniSA Motorsport Logo.pretty")(options "")(descr ""))
+  (lib (name "UniSA_Motorsport_Capacitor")(type "KiCad")(uri "D:/GrabCAD/UniSA KiCAD Libraries/footprints/UniSA_Motorsport_Capacitor.pretty")(options "")(descr ""))
+  (lib (name "UniSA_Motorsport_Connector")(type "KiCad")(uri "D:/GrabCAD/UniSA KiCAD Libraries/footprints/UniSA_Motorsport_Connector.pretty")(options "")(descr ""))
+  (lib (name "UniSA_Motorsport_Diode")(type "KiCad")(uri "D:/GrabCAD/UniSA KiCAD Libraries/footprints/UniSA_Motorsport_Diode.pretty")(options "")(descr ""))
+  (lib (name "UniSA_Motorsport_Others")(type "KiCad")(uri "D:/GrabCAD/UniSA KiCAD Libraries/footprints/UniSA_Motorsport_Others.pretty")(options "")(descr ""))
+  (lib (name "UniSA_Motorsport_Relay")(type "KiCad")(uri "D:/GrabCAD/UniSA KiCAD Libraries/footprints/UniSA_Motorsport_Relay.pretty")(options "")(descr ""))
+  (lib (name "UniSA_Motorsport_Resistor")(type "KiCad")(uri "D:/GrabCAD/UniSA KiCAD Libraries/footprints/UniSA_Motorsport_Resistor.pretty")(options "")(descr ""))
+  (lib (name "UniSA_Motorsport_SO")(type "KiCad")(uri "D:/GrabCAD/UniSA KiCAD Libraries/footprints/UniSA_Motorsport_SO.pretty")(options "")(descr ""))
+  (lib (name "UniSA_Motorsport_SOT_TO")(type "KiCad")(uri "D:/GrabCAD/UniSA KiCAD Libraries/footprints/UniSA_Motorsport_SOT_TO.pretty")(options "")(descr ""))
+)
